@@ -1,1 +1,37 @@
-# Problem_Solving
+# Problem Solving 
+Click to See Solution in C++  
+## Code Forces
+[41A - Translation.cpp](https://github.com/MAAelHamid/Problem_Solving/blob/main/Code%20Forces/41A%20-%20Translation.cpp)  
+[50A - Domino piling.cpp](https://github.com/MAAelHamid/Problem_Solving/blob/main/Code%20Forces/50A%20-%20Domino%20piling.cpp)   
+[133A - HQ9+.cpp](https://github.com/MAAelHamid/Problem_Solving/blob/main/Code%20Forces/133A%20-%20HQ9%2B.cpp)   
+[231A - Team.cpp](https://github.com/MAAelHamid/Problem_Solving/blob/main/Code%20Forces/231A%20-%20Team.cpp)   
+[318A - Even Odds.cpp](https://github.com/MAAelHamid/Problem_Solving/blob/main/Code%20Forces/318A%20-%20Even%20Odds.cpp)   
+[427A - Police Recruits.cpp](https://github.com/MAAelHamid/Problem_Solving/blob/main/Code%20Forces/427A%20-%20Police%20Recruits.cpp)   
+[486A - Calculating Function.cpp](https://github.com/MAAelHamid/Problem_Solving/blob/main/Code%20Forces/486A%20-%20Calculating%20Function.cpp)   
+[510A - Fox And Snake.cpp](https://github.com/MAAelHamid/Problem_Solving/blob/main/Code%20Forces/510A%20-%20Fox%20And%20Snake.cpp)   
+[677A - Vanya and Fence.cpp](https://github.com/MAAelHamid/Problem_Solving/blob/main/Code%20Forces/677A%20-%20Vanya%20and%20Fence.cpp)   
+[734A - Anton and Danik.cpp](https://github.com/MAAelHamid/Problem_Solving/blob/main/Code%20Forces/734A%20-%20Anton%20and%20Danik.cpp)   
+## URI Online Judge 
+[1006 - Average 2.cpp](https://github.com/MAAelHamid/Problem_Solving/blob/main/URI%20Online%20Judge/1006%20-%20Average%202.cpp)   
+[1007 - Difference.cpp](https://github.com/MAAelHamid/Problem_Solving/blob/main/URI%20Online%20Judge/1007%20-%20Difference.cpp)   
+[1009 - Salary with Bonus.cpp](https://github.com/MAAelHamid/Problem_Solving/blob/main/URI%20Online%20Judge/1009%20-%20Salary%20with%20Bonus.cpp)   
+[1012 - Area.cpp](https://github.com/MAAelHamid/Problem_Solving/blob/main/URI%20Online%20Judge/1012%20-%20Area.cpp)   
+[1013 - The Greatest.cpp](https://github.com/MAAelHamid/Problem_Solving/blob/main/URI%20Online%20Judge/1013%20-%20The%20Greatest.cpp)   
+[1014 - Consumption.cpp](https://github.com/MAAelHamid/Problem_Solving/blob/main/URI%20Online%20Judge/1014%20-%20Consumption.cpp)   
+[1019 - Time Conversion.cpp](https://github.com/MAAelHamid/Problem_Solving/blob/main/URI%20Online%20Judge/1019%20-%20Time%20Conversion.cpp)   
+[1035 - Selection test 1.cpp](https://github.com/MAAelHamid/Problem_Solving/blob/main/URI%20Online%20Judge/1035%20-%20Selection%20test%201.cpp)   
+[1036 - Bhaskara's Formula.cpp](https://github.com/MAAelHamid/Problem_Solving/blob/main/URI%20Online%20Judge/1036%20-%20Bhaskara's%20Formula.cpp)   
+[1047 - Game Time with Minutes.cpp](https://github.com/MAAelHamid/Problem_Solving/blob/main/URI%20Online%20Judge/1047%20-%20Game%20Time%20with%20Minutes.cpp)   
+[1048 - Salary Increase.cpp](https://github.com/MAAelHamid/Problem_Solving/blob/main/URI%20Online%20Judge/1048%20-%20Salary%20Increase.cpp)   
+[1101 - Sequence of Numbers and Sum.cpp](https://github.com/MAAelHamid/Problem_Solving/blob/main/URI%20Online%20Judge/1101%20-%20Sequence%20of%20Numbers%20and%20Sum.cpp)   
+[1114 - Logical Sequence.cpp](https://github.com/MAAelHamid/Problem_Solving/blob/main/URI%20Online%20Judge/1114%20-%20Logical%20Sequence.cpp)   
+[1157 - Divisors I.cpp](https://github.com/MAAelHamid/Problem_Solving/blob/main/URI%20Online%20Judge/1157%20-%20Divisors%20I.cpp)   
+[1158 - Sum of Consecutive Odd Numbers III.cpp](https://github.com/MAAelHamid/Problem_Solving/blob/main/URI%20Online%20Judge/1158%20-%20Sum%20of%20Consecutive%20Odd%20Numbers%20III.cpp)   
+[1183 - Above the Main Diagonal.cpp](https://github.com/MAAelHamid/Problem_Solving/blob/main/URI%20Online%20Judge/1183%20-%20Above%20the%20Main%20Diagonal.cpp)   
+[1185 - Above the Secundary Diagonal.cpp](https://github.com/MAAelHamid/Problem_Solving/blob/main/URI%20Online%20Judge/1185%20-%20Above%20the%20Secundary%20Diagonal.cpp)   
+[1557 - Square Matrix III.cpp](https://github.com/MAAelHamid/Problem_Solving/blob/main/URI%20Online%20Judge/1557%20-%20Square%20Matrix%20III.cpp)   
+## Hacker Rank
+[Conditional Statements.cpp](https://github.com/MAAelHamid/Problem_Solving/blob/main/Hacker%20Rank/Conditional%20Statements.cpp)   
+## Online Judge
+[10812 - Beat the Spread!.cpp](https://github.com/MAAelHamid/Problem_Solving/blob/main/Online%20Judge/10812%20-%20Beat%20the%20Spread!.cpp)   
+[11498 - Division of Nlogonia.cpp](https://github.com/MAAelHamid/Problem_Solving/blob/main/Online%20Judge/11498%20-%20Division%20of%20Nlogonia.cpp)   
